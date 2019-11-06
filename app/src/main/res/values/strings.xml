@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="Weather">Weather</string>
+    <string name="Humidity_text">humidity</string>
+    <string name="description">description</string>
+    <string name="city_country">City,Country</string>
+    <string name="pressure">Pressure</string>
+    <string name="Temperature">temperature</string>
+    <string name="day_text">TuesDay</string>
+    <string name="five_day_text">Five Day Forecast</string>
+    <string name="hi_text">Max: </string>
+    <string name="low_text">Min: </string>
+    <string name="Pretend_hi">85° </string>
+    <string name="Pretend_low">-35° </string>
+    <string name="Pretend_description">Description </string>
+    <string name="Five_Days">Five Days </string>
+
+</resources>
